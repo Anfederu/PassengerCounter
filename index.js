@@ -17,5 +17,5 @@ let count = 0
 
 function increment() {
     count = count + 1
-    ocument.getElementById("count-el").innerText = count
+    document.getElementById("count-el").innerText = count
 }
